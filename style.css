@@ -1,0 +1,36 @@
+h1{
+    background-color: red;
+    height: auto;
+
+    padding: 10px;
+
+    
+}
+video{
+    background-color: black;
+    display: inline-block;
+}
+h2{
+    background-color: red;
+    padding: 10px;
+    height: auto;
+    
+}
+body{
+    background-color:navy;
+}
+p{
+    background-color: whitesmoke;
+    color: black;
+    size: 40px;
+    padding: 10px;
+}
+p1
+{
+    background-color:black;
+    color: blueviolet;
+    size: 45px;
+}
+details{
+    background-color: yellow;
+}
